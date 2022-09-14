@@ -1,6 +1,6 @@
 @echo off
 
-git remote set-url origin https://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@github.com/MiyYam01/CIT14.git
+git remote set-url origin https://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@github.com/MiyYam01/CIT14.git
 
 git add .
 git commit -m "Batch File"
