@@ -1,4 +1,4 @@
-git remote set-url origin https://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@github.com/MiyYam01/CIT14.git
+git remote set-url origin https://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/MiyYam01/CIT14.git
 
 Setting up token (optional)
 git remote set-url origin https://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@github.com/primusr/cit142f.git
